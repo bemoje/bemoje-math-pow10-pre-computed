@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/math-pow10-pre-computed",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Pre-computed powers of 10",
    "main": "dist/math-pow10-pre-computed.umd.js",
    "module": "dist/math-pow10-pre-computed.esm.js",
@@ -48,7 +48,7 @@
    "dependencies": {},
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
